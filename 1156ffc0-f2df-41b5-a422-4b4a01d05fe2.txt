@@ -1,0 +1,1 @@
+{"date":"2018-12-30","transaction_id":"1156ffc0-f2df-41b5-a422-4b4a01d05fe2","amount":1.23,"user_id":"113","description":"Joes Tacos"}
